@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #EEEEEE;
+}
+
+.responsive_image{
+    text-align: center;
+    max-width: 80%;
+
+}
+
+#img-div{
+    text-align: center;
+    background-color: white;
+}
